@@ -19,4 +19,4 @@ Once the web app is up and running, users can:<br>
 Input their prefered game and get recommendation for games like the one choosen.<br>
 View recommended games based on their input and gaming history.<br>
 Explore detailed information about each recommended game, including user reviews, release date, and more.<br>
-Interact with the app to discover new games and make informed gaming choices.<br>
+Interact with the app to discover new games and make informed gaming choices.<br> 
